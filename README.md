@@ -26,9 +26,8 @@ Agenda dag 24 d. 9-11-2017
     @PostMapping("/create")
     public String create(@ModelAttribute Student stu){
 
-        studentRepo2.create(stu);
+        studentRepository.create(stu);
         return "redirect:/";
-        //return "create";
     }
 ````     
 
