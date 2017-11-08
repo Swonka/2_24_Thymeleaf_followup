@@ -1,6 +1,6 @@
 # Html og thymeleaf form elements examples
 
-## The <pre><input></pre> Element
+## The %3Cinput%3E Element
 ````    
   <input name="firstname" type="text">
   
