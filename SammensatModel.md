@@ -26,7 +26,7 @@ Og en Employee Class
 ````   
 Når der oprettes en ny virksomhed skal der tilknyttes en kontaktperson til virksomheden ved oprettelsen. Derfor har i brug for at overføre data som har med begge klasser at gøre.    
 
-I dette tilfælde ville jeg lave en ny entity, eller noget man kunne kalde en sammensat entity.    
+I dette tilfælde ville jeg lave en ny entity, eller noget man måske kunne kalde en sammensat entity.    
 
 ````     
   public class CompanyEmployee {
