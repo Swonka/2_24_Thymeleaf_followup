@@ -9,6 +9,10 @@ Agenda dag 24 d. 9-11-2017
 * [Repository](https://github.com/dat17v1/2_24_Thymeleaf_followup/blob/master/repository.md)
 * [Controller](https://github.com/dat17v1/2_24_Thymeleaf_followup/blob/master/controller.md)
 
+### Html form input types
+
+* [Radio button](https://www.w3schools.com/html/tryit.asp?filename=tryhtml_radio)
+
 ## Tutorial
 HVis i har problemer med Thymeleaf er det en rigtig god ide at bruge et par timer på disse tutorials    
 * [The Thymeleaf Interactive Tutorial](http://itutorial.thymeleaf.org/)
