@@ -1,7 +1,7 @@
 # Create
 ##### create.html
 ````      
-    <form th:action="@{/create}" method="post" th:object="${student}"> <!-- student = @ModelAttribute -->
+    <form th:action="@{/create}" method="post" th:object="${student}">
 
         <input type="text" th:field="*{firstName}" />
         <input type="text" th:field="*{lastName}" />
