@@ -30,7 +30,7 @@
 #### repository
 
 ````     
-public void create(Student st) {
+    public void create(Student st) {
         jdbc.update("insert into students(first_name,last_name, enrollmentdate, cpr)values('Claus666','Bove', '2010-10-10', '221070-3333')");
     }
 ````
