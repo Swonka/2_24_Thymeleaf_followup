@@ -18,8 +18,13 @@
   and all other radio-buttons with equal name become unchecked.
 
 ````    
-### Submit
-
+### checkbox
+````     
+  <input type="checkbox" name="gender" value="Male" />Male<br />
+  <input type="checkbox" name="gender" value="Female" />Female<br />
+  <input type="checkbox" name="gender" value="Other" />Other<br />
+````     
+### submit
 ````    
   <input type="submit" value="Send">
 ```` 
