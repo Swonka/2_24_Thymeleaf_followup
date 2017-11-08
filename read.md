@@ -37,7 +37,6 @@
 ````     
   public ArrayList<Student> readAll() {
 
-        students.clear();
         rs = jdbc.queryForRowSet("select * from students");
         
         while (rs.next()) {
@@ -47,6 +46,7 @@
                     rs.getDate("enrollmentdate"),
                     rs.getString("cpr")));
         }
+        
         return students;
     }
 ````     
