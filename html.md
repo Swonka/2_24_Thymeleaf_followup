@@ -7,7 +7,6 @@
   <input name="firstname" type="text">
   
   <input type="text" th:field="*{firstname}">
-
 ````   
 ### radio
 ````    
@@ -19,3 +18,8 @@
   and all other radio-buttons with equal name become unchecked.
 
 ````    
+### Submit
+
+````    
+  <input type="submit" value="Send">
+```` 
