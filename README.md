@@ -9,6 +9,9 @@ Agenda dag 24 d. 9-11-2017
 * [Repository](https://github.com/dat17v1/2_24_Thymeleaf_followup/blob/master/repository.md)
 * [Controller](https://github.com/dat17v1/2_24_Thymeleaf_followup/blob/master/controller.md)
 
+### Model
+* [SammensatModel](https://github.com/dat17v1/2_24_Thymeleaf_followup/blob/master/SammensatModel.md)
+
 ### Html form input types
 
 * [Html](https://github.com/dat17v1/2_24_Thymeleaf_followup/blob/master/html.md)
