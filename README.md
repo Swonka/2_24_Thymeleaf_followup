@@ -10,4 +10,5 @@ Agenda dag 24 d. 9-11-2017
 * [Controller](https://github.com/dat17v1/2_24_Thymeleaf_followup/blob/master/controller.md)
 
 ## Tutorial
+HVis i har problemer med Thymeleaf er det en rigtig god ide at bruge et par timer på disse tutorials    
 * [The Thymeleaf Interactive Tutorial](http://itutorial.thymeleaf.org/)
