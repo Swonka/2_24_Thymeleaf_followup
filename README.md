@@ -16,6 +16,7 @@ Agenda dag 24 d. 9-11-2017
 * [Html](https://github.com/dat17v1/2_24_Thymeleaf_followup/blob/master/html.md)
 
 ## Tutorials & literatur
-* [Thymeleaf: Getting started with the Standard dialects in 5 minutes]()
-HVis i har problemer med Thymeleaf er det en rigtig god ide at bruge et par timer på disse tutorials    
+* [Thymeleaf: Getting started with the Standard dialects in 5 minutes](http://www.thymeleaf.org/doc/articles/standarddialect5minutes.html)
+
+Hvis i har problemer med Thymeleaf er det en rigtig god ide at bruge et par timer på disse tutorials    
 * [The Thymeleaf Interactive Tutorial](http://itutorial.thymeleaf.org/)
