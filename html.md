@@ -15,6 +15,7 @@
   <input type="radio" name="gender" value="female" /> Female<br />
   <input type="radio" name="gender" value="other" /> Other <br />
   
-  When a user clicks on a radio-button, it becomes checked, and all other radio-buttons with equal name become unchecked.
+  When a user clicks on a radio-button, it becomes checked, 
+  and all other radio-buttons with equal name become unchecked.
 
 ````    
