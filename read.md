@@ -33,3 +33,20 @@
         return "index";
     }
 ````     
+#### repository
+````     
+  public ArrayList<Student> readAll() {
+
+        students.clear();
+        rs = jdbc.queryForRowSet("select * from students");
+        
+        while (rs.next()) {
+            students.add(new Student(rs.getInt("student_id"),
+                    rs.getString("first_name"),
+                    rs.getString("last_name"),
+                    rs.getDate("enrollmentdate"),
+                    rs.getString("cpr")));
+        }
+        return students;
+    }
+````     
