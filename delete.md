@@ -3,7 +3,6 @@
 #### delete.html
 ````     
   // I denne demo af delete er der ingen html (view) side
-
 ````     
 
 #### controller
