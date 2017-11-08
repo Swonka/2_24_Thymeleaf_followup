@@ -1,27 +1,38 @@
-Tit vil i have brug for at kunne skrive noget ind i en html form hvor der er mere data end hvad der er plads til i en entity (class).
+Tit vil i have brug for at kunne skrive noget ind i en html form hvor der er mere data end hvad der er plads til i en entity (class) og en tabel i databasen.
 
 Et eksempel:
-
+i Har en Company Class
 ````     
-  public class Student {
+  public class Company {
 
-    private int studentId;
-    private String firstName;
-    private String lastName;
-    @DateTimeFormat(pattern = "yyyy-MM-dd")
-    private Date enrollmentDate;
-    private String cpr;
+    private int companyId;
+    private String name;
     
     // Getters & Setters ....
 }
 ````    
+
+Og en Employee Class
   
 ````     
-  public class Course {
+  public class Employee {
 
-    private int courseId;
-    private String title;
-    private String etcs;
+    private int employeeId;
+    private String jobTitle;
+    private String email;
+    
+    // Getters & Setters ....
+}
+````   
+Når der oprettes en ny virksomhed skal der tilknyttes en kontaktperson til virksomheden ved oprettelsen. Derfor har i brug for at overføre data som har med begge klasser at gøre.    
+
+I dette tilfælde ville jeg lave en ny entity, eller noget man kunne kalde en sammensat entity.    
+
+````     
+  public class CompanyEmployee {
+
+    private Company company;
+    private Employee employee;
     
     // Getters & Setters ....
 }
