@@ -20,3 +20,10 @@ Agenda dag 24 d. 9-11-2017
 
 Hvis i har problemer med Thymeleaf er det en rigtig god ide at bruge et par timer på disse tutorials    
 * [The Thymeleaf Interactive Tutorial](http://itutorial.thymeleaf.org/)
+
+## Øvelser
+* [øvelse 1](http://itutorial.thymeleaf.org/exercise/1)
+* [øvelse 2](http://itutorial.thymeleaf.org/exercise/2)
+* [øvelse 3](http://itutorial.thymeleaf.org/exercise/3)
+* [øvelse 4](http://itutorial.thymeleaf.org/exercise/4)
+* [øvelse 5](http://itutorial.thymeleaf.org/exercise/5)
