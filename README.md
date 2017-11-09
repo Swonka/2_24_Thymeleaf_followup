@@ -17,6 +17,8 @@ Agenda dag 24 d. 9-11-2017
 
 ## Tutorials & literatur
 * [Thymeleaf: Getting started with the Standard dialects in 5 minutes](http://www.thymeleaf.org/doc/articles/standarddialect5minutes.html)
+* [Html W3Schools](https://www.w3schools.com/html/)
+* [Css  W3Schools](https://www.w3schools.com/css/)    
 
 Hvis i har problemer med Thymeleaf er det en rigtig god ide at bruge et par timer på disse tutorials    
 * [The Thymeleaf Interactive Tutorial](http://itutorial.thymeleaf.org/)
